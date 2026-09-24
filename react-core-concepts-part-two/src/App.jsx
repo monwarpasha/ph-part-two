@@ -15,9 +15,11 @@ function App() {
     <div>
       <h1>React Apps Part 2</h1>
 
+      <Users></Users>
+
       <Friends></Friends>
 
-      <Users></Users>
+      
 
       <Team></Team>
 
